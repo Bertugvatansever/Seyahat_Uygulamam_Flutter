@@ -6,6 +6,7 @@
 ![Ekran görüntüsü 2023-09-15 200135](https://github.com/Bertugvatansever/Seyahat_Uygulamam_Flutter/assets/79909762/87c01340-cb07-49ea-9d00-1adef66d02c0)
 ![Ekran görüntüsü 2023-09-15 200057](https://github.com/Bertugvatansever/Seyahat_Uygulamam_Flutter/assets/79909762/185aad1e-7bdf-4543-aab4-102450e6aaad)
 
+![Ekran görüntüsü 2023-09-15 200152](https://github.com/Bertugvatansever/Seyahat_Uygulamam_Flutter/assets/79909762/9606dbb9-4d29-4a70-8476-758410407b6c)
 
 
 
